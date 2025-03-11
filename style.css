@@ -194,16 +194,16 @@ header .header-icons img {
 }
 
 .first-buttons a {
-    color: black;
+    color: rgb(17, 16, 16);
 }
 
-.first-buttons .button-start {
-    color: #ddd;
+.button-start {
+    color: #110e0e;
     margin-top: 30px;
     background-color: #333;
     border-radius: 100px;
     font-size: larger;
-    width: ;
+    
 }
 
 .restyling-content {
@@ -457,7 +457,7 @@ a {
 
 .shape {
 
-    width: 400px;
+    width: 500px;
     background-color: #474747;
     height: 400px;
     right: 400px;
